@@ -27,11 +27,20 @@
   },
   "work": [
     {
+      "company": "DozeTI",
+      "position": "RPA Developer",
+      "website": "www.dozeti.com.br",
+      "startDate": "2017-09-01",
+      "endDate": "",
+      "summary": "Development of applications for process robotization",
+      "highlights": []
+    },
+    {
       "company": "EduQC",
       "position": "CTO",
       "website": "www.eduqc.com",
       "startDate": "2016-06-15",
-      "endDate": "",
+      "endDate": "2017-10-31",
       "summary": "Development of REST API using Laravel and frontend using Vue. Flow diagram of deploy, AWS server management, maintenance the database and use SCRUM for projects. Performing unit tests and automation using Jenkins and Chef.",
       "highlights": ["https://examedaoab.com","https://engcivil.maquinadeaprovacao.com","https://tribunal.maquinadeaprovacao.com","https://controle.maquinadeaprovacao.com","https://diplomacia.maquinadeaprovacao.com"]
     },
